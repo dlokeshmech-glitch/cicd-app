@@ -1,0 +1,9 @@
+{
+  "name": "loki-app",
+  "version": "1.0.0",
+  "description": "AWS CI/CD lokesh App",
+  "main": "app.js",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
